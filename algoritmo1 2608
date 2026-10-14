@@ -1,0 +1,9 @@
+algoritmo01
+variables
+numero,doble:entero
+inicio
+imprimir"numero":
+leer numero
+doble<-numero*2
+imprimir"el doble es:",doble
+fin
